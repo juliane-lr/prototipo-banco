@@ -71,7 +71,7 @@ As telas foram conectadas no Figma para simular a navegação entre as diferente
 
 ## 🔗 Protótipo no Figma
 
-[Insira aqui o link público do protótipo no Figma]
+[Acessar protótipo interativo no Figma](https://www.figma.com/design/jLacjEoblEuMKmdC5hcqeK/J-Bank?node-id=0-1&t=hjtwMmhGDl89i55u-1)
 
 > Os nomes, valores, documentos e demais informações bancárias apresentados nas telas são **dados fictícios**, utilizados exclusivamente para fins de prototipação e demonstração.
 
